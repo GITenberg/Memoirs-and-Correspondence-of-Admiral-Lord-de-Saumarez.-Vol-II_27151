@@ -1,0 +1,27 @@
+_repo: Memoirs-and-Correspondence-of-Admiral-Lord-de-Saumarez.-Vol-II_27151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ross, John, Sir
+    birthdate: 1777
+    deathdate: 1856
+    gutenberg_agent_id: '31748'
+    url: http://www.gutenberg.org/2009/agents/31748
+description: ''
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Saumarez, James, 1757-1836'
+- !lcsh 'Admirals -- Great Britain -- Biography'
+title: Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II
+url: http://www.gutenberg.org/ebooks/27151
